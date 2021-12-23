@@ -6,5 +6,5 @@ Api: https://www.themealdb.com/api.php
 ![meal_landscape](https://user-images.githubusercontent.com/96437864/147168473-7e0d94f1-f9ca-48c7-bf73-306ce94a3bd9.gif)
 
 
-# Features
+## Features
 - Support for landscape mode
